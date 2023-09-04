@@ -3,6 +3,9 @@
 ..ESP-JIABAIDA-Controller ...comming soon
 wird es bald zum Download geben!
 
+<a href="A04_From Your Webside - JBD-SP04S034-_-A04.pdf" type="application/pdf" class="image fit">Handbuch zum JBD SP04S034 200A 4S BMS </a> 
+
+
 Monitoring a JBD BMS over UART Port outputs on  web, http json, mqtt
 
 <img src="SP04S034.Hv1.3_BSG.png" alt="SP04S034.Hv1.3_BSG"/>
