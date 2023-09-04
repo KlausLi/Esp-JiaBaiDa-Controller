@@ -18,7 +18,7 @@ JBD Part1 mit Vorschau auf JBD  -> https://youtu.be/Nw9lOeu1IMA
 
 Monitoring a JBD BMS over UART Port outputs on  web, http json, mqtt  
   
-Kurz und Shorty Schaltplan(nur harten kommen in den Garten)  
+Kurz und Shorty Schaltplan! (nur harten kommen in den Garten)  
 by BavarianSuperGuy  
 <img src="SP04S034.Hv1.3_BSG.png" alt="SP04S034.Hv1.3_BSG"/>  
 Explain: SP04S034.Hv1.3_BSG JBD 4S 200 Ampere BMS - kommt in meine OstBlockBatterie  
