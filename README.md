@@ -1,4 +1,8 @@
 # ESP-JIABAIDA-Controller
+
+..ESP-JIABAIDA-Controller ...comming soon
+wird es bald zum Download geben!
+
 Monitoring a JBD BMS over UART Port outputs on  web, http json, mqtt
 
 <img src="SP04S034.Hv1.3_BSG.png" alt="SP04S034.Hv1.3_BSG"/>
